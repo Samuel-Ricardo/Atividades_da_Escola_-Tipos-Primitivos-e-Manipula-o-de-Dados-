@@ -9,13 +9,13 @@ package EstruturaDeRepetiçao;
  *
  * @author Samuel
  */
-public class UmADez {
+public class UmADezDecrescente {
     
     public static void main(String[] args) {
         
         int cont;
         
-        for (cont = 1; cont<11; cont++) {
+        for (cont = 10; cont > 0; cont--) {
             
             System.out.println(cont);
             
