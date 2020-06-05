@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Samuel
  */
-public class ContarNumeros {
+public class ContadorDeNumeros {
 
     public static void main(String[] args) {
 
